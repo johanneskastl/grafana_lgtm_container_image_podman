@@ -1,5 +1,8 @@
 # grafana_lgtm_container_image_podman
 
+* [Blog post](https://grafana.com/blog/2024/03/13/an-opentelemetry-backend-in-a-docker-image-introducing-grafana/otel-lgtm/)
+* [Repository](https://github.com/grafana/docker-otel-lgtm)
+
 ## Running the container
 
 The script `grafana_lgtm.sh` can be used to run the [Grafana `otel-lgtm`
